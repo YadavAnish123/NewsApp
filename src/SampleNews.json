@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": "Joel Shannon, Thao Nguyen and Wyatte Grantham-Philips, USA TODAY",
+        "title": "Winter storm updates: Deaths from crashes; power outages - USA TODAY",
+        "description": "The massive footprint of the winter weather and its timing during a busy holiday travel week make the arctic blast particularly dangerous.",
+        "url": "https://www.usatoday.com/story/news/nation/2022/12/24/winter-storm-updates-deaths-crashes-power-outages/10950466002/",
+        "urlToImage": "https://www.gannett-cdn.com/presto/2022/12/24/USAT/4533ab4c-f822-4295-9c11-3a086b9aaa36-AP_Winter_Weather.jpg?auto=webp&crop=5471,3078,x0,y364&format=pjpg&width=1200",
+        "publishedAt": "2022-12-24T16:18:45Z",
+        "content": "A powerful winter storm already blamed for fatal car crashes, widespread power outages and dangerously cold temperatures will keep pummeling the United States with freezing temperatures through Chris… [+9204 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Timothy Bella",
+        "title": "4 dead in 46-car pileup in Ohio as storm blasts Christmas weekend - The Washington Post",
+        "description": "A winter storm that the National Weather Service has described as “once in a generation” is carving a 2,000-mile path across much of the country this weekend.",
+        "url": "https://www.washingtonpost.com/weather/2022/12/24/ohio-winter-weather-pileup-storm/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OSOM2OOMMZALBO36DUFVA67UY4.jfif&w=1440",
+        "publishedAt": "2022-12-24T16:13:09Z",
+        "content": "Comment on this story\r\nA 46-car pileup on the Ohio Turnpike left four people dead and others injured Friday, according to authorities, part of a fearsome winter storm that blasted extreme weather thr… [+3730 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Scott Allen",
+        "title": "Wayne Gretzky's goals record was once considered unbreakable - The Washington Post",
+        "description": "Wayne Gretzky’s goals record is in jeopardy, but his career points mark may last forever.",
+        "url": "https://www.washingtonpost.com/sports/2022/12/24/most-unbreakable-sports-records/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LWNF36D37MI63O4X6R6UORTLTI.jpg&w=1440",
+        "publishedAt": "2022-12-24T15:54:49Z",
+        "content": "Comment on this story\r\nWayne Gretzkys NHL record of 894 career goals was once considered unbreakable. Now, after Washington Capitals captain Alex Ovechkin passed Gordie Howe to move into second place… [+6130 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "Kurds clash with police in Paris for second day after killings - Reuters",
+        "description": "Clashes broke out for a second day in Paris on Saturday between police and members of the Kurdish community angry at the killing on Friday of three members of their community.",
+        "url": "https://www.reuters.com/world/europe/frances-kurds-gather-protest-after-paris-killings-2022-12-24/",
+        "urlToImage": "https://www.reuters.com/resizer/dDyFsAGD9cZQ7NbNz-EGwqkMOJs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SLRJIQT6UNNZBN4PBWN4N54RIQ.jpg",
+        "publishedAt": "2022-12-24T15:21:00Z",
+        "content": "PARIS, Dec 24 (Reuters) - Clashes broke out for a second day in Paris on Saturday between police and members of the Kurdish community angry at the killing on Friday of three members of their communit… [+2749 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "Factbox: Winter storms leave 1.8 million without power in U.S. - Reuters",
+        "description": "Nearly 1.8 million homes and businesses were without power in the eastern half of the United States and Texas on Saturday as winter storms battered much of the country, according to data from <a href=\"https://poweroutage.us/\" target=\"_blank\">PowerOutage.us</a…",
+        "url": "https://www.reuters.com/world/us/over-14-million-without-power-us-east-coast-texas-winter-storms-2022-12-23/",
+        "urlToImage": "https://www.reuters.com/resizer/zGTidIMWLXq1HTIl2SfFN0ZgBXg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/64V5GCMNQBI2FKRNB5OYP3ZW6Q.jpg",
+        "publishedAt": "2022-12-24T14:45:00Z",
+        "content": "Dec 24 (Reuters) - Nearly 1.8 million homes and businesses were without power in the eastern half of the United States and Texas on Saturday as winter storms battered much of the country, according t… [+1431 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "Riazat Butt",
+        "title": "Taliban ban women from working for domestic, foreign NGOs - The Associated Press",
+        "description": "KABUL, Afghanistan (AP) — The Taliban government on Saturday ordered all foreign and domestic non-governmental groups in Afghanistan to suspend employing women, allegedly because some female employees didn't wear the Islamic headscarf correctly.",
+        "url": "https://apnews.com/7583cf97e3d96e0d07cd7674c3b5a3c3",
+        "urlToImage": "https://storage.googleapis.com/afs-prod/media/8307424cf48a429a87a428825185eb16/3000.webp",
+        "publishedAt": "2022-12-24T14:26:15Z",
+        "content": "KABUL, Afghanistan (AP) The Taliban government on Saturday ordered all foreign and domestic non-governmental groups in Afghanistan to suspend employing women, allegedly because some female employees … [+5244 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Philadelphia Inquirer"
+        },
+        "author": "MORGAN LEE and GIOVANNA DELL'ORTO",
+        "title": "Stuck at the border, migrants find a little Christmas cheer - The Philadelphia Inquirer",
+        "description": "Tens of thousands of migrants who fled violence and poverty will spend Christmas in crowded shelters or on the dangerous streets of Mexican border towns",
+        "url": "https://www.inquirer.com/wires/ap/stuck-border-migrants-find-little-christmas-cheer-20221224.html",
+        "urlToImage": "https://www.inquirer.com/resizer/r2VsVhXDb0vkRjL-bKe9T4JQZU8=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/MN7LRG6FPR6J5RD3HOKXSWRQK4.jpg",
+        "publishedAt": "2022-12-24T14:08:34Z",
+        "content": "CIUDAD JUAREZ, Mexico (AP) After fleeing violence in their Guatemalan town, but with their way to relatives in California blocked by continuing U.S. asylum restrictions, a family of 15 joined an Adve… [+5671 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "King Charles' Christmas message to pay tribute to Queen's legacy – BBC News - BBC News",
+        "description": "King Charles is set to include a tribute to his mother, Queen Elizabeth II, in his first Christmas message as monarch.He will also reflect on his views about...",
+        "url": "https://www.youtube.com/watch?v=ZQJD39Hay0w",
+        "urlToImage": "https://i.ytimg.com/vi/ZQJD39Hay0w/hqdefault.jpg",
+        "publishedAt": "2022-12-24T14:00:14Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "Giants players were believed to be inside Mall of America during deadly shooting - CBS Sports",
+        "description": "The team says everyone within the organization is accounted for",
+        "url": "https://www.cbssports.com/nfl/news/giants-players-were-believed-to-be-inside-mall-of-america-during-deadly-shooting/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2017/12/21/f4686740-e77d-46e1-8fbc-66af4cfd4ebf/thumbnail/1200x675/d84a9e7b1c14c6ed5a1e27df1917acd6/usatsi-10349757.jpg",
+        "publishedAt": "2022-12-24T13:53:00Z",
+        "content": "The Mall of America was put into lockdown on Friday after a 19-year-old man was killed during a shooting, according to Bloomington Police. At the time of the shooting and subsequent lockdown, some Ne… [+1271 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "Prisco's Week 16 NFL picks: Chiefs crush Seahawks, Vikings edge Giants, 49ers roll over Commanders - CBS Sports",
+        "description": "Pete Prisco reveals all his Week 16 picks, including the Jaguars beating the Jets on the road",
+        "url": "https://www.cbssports.com/nfl/news/priscos-week-16-nfl-picks-chiefs-crush-seahawks-vikings-edge-giants-49ers-roll-over-commanders/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/15/d2618b2b-b710-4aa3-b19a-3dd396bb2f5d/thumbnail/1200x675/f72035506077ca45be21cc0bc72546cb/justin-jefferson-usatsi-vikings-cbs.jpg",
+        "publishedAt": "2022-12-24T13:37:00Z",
+        "content": "Week 15 was not good to me with my picks. In fact, it was one of my worst weeks of the season.\r\nOuch.\r\nSo much for getting on a hot streak in the final month. But it's Christmas week, which means the… [+6216 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Bethlehem sees Christmas tourism boost after two-year Covid hiatus - BBC",
+        "description": "Thousands are expected to visit the Palestinian town, where the economy was badly hit by lockdowns.",
+        "url": "https://www.bbc.com/news/world-middle-east-64085597",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1ED3/production/_128119870_3422d4a012b02f161ebde48871b3ecec0171c6f4.jpg",
+        "publishedAt": "2022-12-24T12:13:38Z",
+        "content": "Tens of thousands of visitors are expected to gather in Bethlehem for a Christmas procession, after the town's economy was badly hit by lockdowns. \r\nTwo years of muted celebrations have given way to … [+2983 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "U.S. deep freeze forecast to break Christmas Eve records - Reuters",
+        "description": "An arctic blast that has gripped much of the United States this week, disrupting daily life and holiday travel for millions of Americans, was expected to produce the coldest Christmas Eve on record in several cities from Pennsylvania to Florida.",
+        "url": "https://www.reuters.com/world/us/us-deep-freeze-forecast-break-christmas-eve-records-2022-12-24/",
+        "urlToImage": "https://www.reuters.com/resizer/zGTidIMWLXq1HTIl2SfFN0ZgBXg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/64V5GCMNQBI2FKRNB5OYP3ZW6Q.jpg",
+        "publishedAt": "2022-12-24T12:02:00Z",
+        "content": "Dec 24 (Reuters) - An arctic blast that has gripped much of the United States this week, disrupting daily life and holiday travel for millions of Americans, was expected to produce the coldest Christ… [+4241 chars]"
+      },
+      {
+        "source": {
+          "id": "nfl-news",
+          "name": "NFL News"
+        },
+        "author": "Ian Rapoport",
+        "title": "Bill O'Brien emerging as option for Patriots offensive coordinator in 2023 - NFL.com",
+        "description": "Bill O'Brien, the current offensive coordinator at Alabama, is a strong option for a return to the New England Patriots in 2023, NFL Network Insider Ian Rapoport reports.",
+        "url": "https://www.nfl.com/news/bill-o-brien-emerging-as-option-for-patriots-offensive-coordinator-in-2023",
+        "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/di81qgj8d07fgavl9mnn",
+        "publishedAt": "2022-12-24T11:26:00Z",
+        "content": "Could a familiar face return to New England in 2023 to guide the offense in the right direction?\r\nSources say Alabama offensive coordinator Bill O'Brien is a strong option to return to his former hom… [+2545 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": null,
+        "title": "These fast food places, restaurants will be open on Christmas Day 2022 - The Hill",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMifmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvbmV4c3Rhcl9tZWRpYV93aXJlLzM3NTU2NjAtdGhlc2UtZmFzdC1mb29kLXBsYWNlcy1yZXN0YXVyYW50cy13aWxsLWJlLW9wZW4tb24tY2hyaXN0bWFzLWRheS0yMDIyL9IBggFodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL25leHN0YXJfbWVkaWFfd2lyZS8zNzU1NjYwLXRoZXNlLWZhc3QtZm9vZC1wbGFjZXMtcmVzdGF1cmFudHMtd2lsbC1iZS1vcGVuLW9uLWNocmlzdG1hcy1kYXktMjAyMi9hbXAv?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2022-12-24T11:00:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Lawrence Richard",
+        "title": "China grapples massive COVID wave with full emergency wards and crowded crematoriums: 'Many people dying' - Fox News",
+        "description": "China continues to grapple with COVID-19 cases that have surged since government officials lifted restrictions. The country-wide wave of cases has overwhelmed hospitals.",
+        "url": "https://www.foxnews.com/world/china-grapples-massive-covid-wave-full-emergency-wards-crowded-crematoriums-many-people-dying",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/AP22358015634358.jpg",
+        "publishedAt": "2022-12-24T10:20:21Z",
+        "content": "Chinas ongoing battle with a COVID surge has completely devastated the countrys healthcare infrastructure, especially in the Hebei province.\r\nHospitals in Baoding and Langfang have been forced to tur… [+4240 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Ayelet Sheffey",
+        "title": "Professor with $230K in student debt fears payment restart without relief - Business Insider",
+        "description": "Tim Babulski worries Biden is set on resuming student-loan payments and returning to normal. But \"normal\" is a \"decades-long debt sentence,\" he said.",
+        "url": "https://www.businessinsider.com/what-happens-if-student-loan-payments-resume-without-debt-relief-2022-12",
+        "urlToImage": "https://i.insider.com/639a0fc727c0a700193e1f80?width=1200&format=jpeg",
+        "publishedAt": "2022-12-24T09:45:00Z",
+        "content": "Timothy Babulski knows that $10,000 in student-debt relief will hardly make a dent in his $230,000 balance. \r\nBut for the sake of millions of other borrowers dealing with debt loads, he hopes reducti… [+4321 chars]"
+      },
+      {
+        "source": {
+          "id": "independent",
+          "name": "Independent"
+        },
+        "author": "Graeme Massie",
+        "title": "Tory Lanez found guilty of shooting Megan Thee Stallion at party - The Independent",
+        "description": "Canadian rapper faces more than 20 years in prison after being convicted by Los Angeles jury",
+        "url": "https://www.independent.co.uk/arts-entertainment/music/news/megan-thee-stallion-tory-lanez-guilty-b2251005.html",
+        "urlToImage": "https://static.independent.co.uk/2022/12/23/23/AP22357839115100.jpg?quality=75&width=1200&auto=webp",
+        "publishedAt": "2022-12-24T08:20:24Z",
+        "content": "Sign up to Roisin OConnors free weekly newsletter Now Hear This for the inside track on all things music\r\nGet our Now Hear This email for free\r\nRapper Tory Lanez has been found guilty of shooting hip… [+2384 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Sam Tabahriti",
+        "title": "Caroline Ellison says FTX execs secretly borrowed billions from Alameda - Business Insider",
+        "description": "The former Alameda Research CEO has struck a plea deal along with FTX cofounder Gary Wang that freed both on bonds of $250,000.",
+        "url": "https://www.businessinsider.com/caroline-ellison-says-ftx-execs-secretly-borrowed-billions-alameda-research-2022-12",
+        "urlToImage": "https://i.insider.com/63a6bad847bbe4001983544c?width=1200&format=jpeg",
+        "publishedAt": "2022-12-24T08:09:00Z",
+        "content": "Caroline Ellison said FTX executives received billions in hidden loans from Alameda Research, according to a transcript of her plea hearing seen by Reuters.\r\nThe former Alameda CEO said that she agre… [+1983 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "LeBron James' shoe falls off during potential game-winning possession in Lakers' wild loss vs. Hornets - CBS Sports",
+        "description": "The Lakers missed a couple of big opportunities down the stretch, concluding with a bizarre sequence of events",
+        "url": "https://www.cbssports.com/nba/news/lebron-james-shoe-falls-off-during-potential-game-winning-possession-in-lakers-wild-loss-vs-hornets/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/24/73568c2a-db16-4700-a1d8-76043c3a4553/thumbnail/1200x675/39937d2126a9be9630a0bd6bbe9e25c9/122322-lebronjames.jpg",
+        "publishedAt": "2022-12-24T06:51:00Z",
+        "content": "The end of Friday night's game between the Los Angeles Lakers and Charlotte Hornets probably isn't what Dr. James Naismith envisioned when he invented the modern game of basketball. The final minute … [+2398 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Lawrence Richard",
+        "title": "CDC: Flu season starting to wane after brutal start, including at least 12,000 deaths - Fox News",
+        "description": "The spread of influenza this season has already resulted in 12,000 deaths, but it could be on the decline, according to the Center for Disease Control and Prevention.",
+        "url": "https://www.foxnews.com/health/cdc-flu-season-starting-wane-after-brutal-start-including-least-12000-deaths",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/AP22357655868178.jpg",
+        "publishedAt": "2022-12-24T05:49:46Z",
+        "content": "The spread of influenza, or the Flu, is starting to decrease in several areas across the U.S. after many hospitals reported an irregularly high number of Flu-related admissions this season.\r\nThe Cent… [+3312 chars]"
+      }
+    ]
+  }
